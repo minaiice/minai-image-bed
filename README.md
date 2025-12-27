@@ -1,2 +1,2 @@
-# minai-imgae-bed
+# minai-image-bed
 to upload some pictures for my blogs
